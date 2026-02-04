@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Lista de cambios no controlados predeterminada",
 			"files": [
+				"C:/Users/rodri/OneDrive/Documentos/Unreal Projects/CUUnrealEngine/CUUnrealEngine/Content/Input/Actions/IA_Agacharse.uasset",
+				"C:/Users/rodri/OneDrive/Documentos/Unreal Projects/CUUnrealEngine/CUUnrealEngine/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/rodri/OneDrive/Documentos/Unreal Projects/CUUnrealEngine/CUUnrealEngine/Content/Input/IMC_Default.uasset",
+				"C:/Users/rodri/OneDrive/Documentos/Unreal Projects/CUUnrealEngine/CUUnrealEngine/Content/ThirdPerson/Blueprints/ThirdPerson_AnimBP.uasset",
+				"C:/Users/rodri/OneDrive/Documentos/Unreal Projects/CUUnrealEngine/CUUnrealEngine/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
 				"C:/Users/rodri/OneDrive/Documentos/Programacion de videojuegos/CUUnrealEngine/CUUnrealEngine/Content/ThirdPerson/MI_ThirdPersonColWay.uasset"
 			]
 		}

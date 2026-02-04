@@ -1,13 +1,29 @@
-[29772:29908:0127/181607.270:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[29772:21112:0127/181607.578:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[29772:29908:0127/181607.714:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[29772:29908:0127/181623.288:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[29772:12380:0127/181625.689:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,5]
-[29772:29908:0127/181626.158:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[29772:29908:0127/181626.160:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[29772:29908:0127/181626.160:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[29772:29908:0127/181626.160:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[29772:12380:0127/181626.346:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[29772:12380:0127/181637.201:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[21572:20512:0127/181838.669:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[29772:29908:0127/182634.034:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[1000:19120:0203/172853.011:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[1000:12692:0203/172853.407:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[1000:19120:0203/172853.546:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[1000:19120:0203/172902.624:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[1000:19120:0203/172912.865:ERROR:device_event_log_impl.cc(196)] [17:29:12.817] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[2140:6360:0203/172913.553:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5A65A6CC1CDF6B8EE159EC6431C52738 will be ignored
+[1000:19120:0203/172949.884:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1000:19120:0203/172959.950:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1000:19120:0203/173005.136:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1000:19120:0203/173010.141:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1000:19120:0203/173015.140:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1000:19120:0203/173020.142:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1000:19120:0203/173025.143:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1000:19120:0203/173030.144:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1000:19120:0203/173035.144:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1000:19120:0203/173040.143:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1000:19120:0203/173045.148:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1000:19120:0203/173050.148:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1000:19120:0203/173055.149:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1000:19120:0203/173100.148:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1000:19120:0203/173105.152:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1000:19120:0203/173110.153:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1000:19120:0203/173115.154:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1000:19120:0203/173120.154:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1000:19120:0203/173125.156:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1000:19120:0203/173135.156:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1000:19120:0203/173140.156:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1000:19120:0203/174823.519:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1000:19120:0203/184618.126:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
