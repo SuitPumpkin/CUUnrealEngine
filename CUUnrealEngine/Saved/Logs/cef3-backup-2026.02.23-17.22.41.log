@@ -1,0 +1,26 @@
+[3564:2728:0222/105900.743:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[3564:22328:0222/105900.858:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[3564:2728:0222/105900.919:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[3564:6084:0222/105906.112:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rodri\OneDrive\Documentos\Unreal Projects\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\rodri\OneDrive\Documentos\Unreal Projects\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3564:6084:0222/105906.120:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rodri\OneDrive\Documentos\Unreal Projects\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\rodri\OneDrive\Documentos\Unreal Projects\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3564:6084:0222/105906.126:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rodri\OneDrive\Documentos\Unreal Projects\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\rodri\OneDrive\Documentos\Unreal Projects\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3564:6084:0222/105906.131:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rodri\OneDrive\Documentos\Unreal Projects\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\rodri\OneDrive\Documentos\Unreal Projects\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3564:7216:0222/105907.154:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\rodri\OneDrive\Documentos\Unreal Projects\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\rodri\OneDrive\Documentos\Unreal Projects\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17836:21240:0222/105907.766:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-EB38713E27EBFD9DBD6808E4F4C1B677 will be ignored
+[3564:17452:0222/105908.771:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3564:17452:0222/105908.775:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3564:2728:0222/105909.094:ERROR:device_event_log_impl.cc(196)] [10:59:08.766] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[3564:19016:0222/105909.849:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[3564:19016:0222/105909.893:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[3564:19016:0222/105909.923:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[1808:15448:0222/111018.061:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 8-168C686561F5C91468557BBD6A538AA1 will be ignored
+[3564:19016:0222/111234.559:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[3564:19016:0222/111311.017:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[3564:19016:0222/111331.063:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[3564:19016:0222/111433.939:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[3564:19016:0222/111519.834:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[3564:19016:0222/111642.733:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[3564:19016:0222/111707.752:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[3564:19016:0222/111727.926:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[3564:19016:0222/111814.610:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[3564:2728:0222/111951.112:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
